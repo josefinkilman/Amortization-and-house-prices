@@ -1,4 +1,4 @@
-# Amortization-and-house-prices
+# The effect of the Swedish amortization requirement on house prices - A descriptive analysis
 
 ## 1. Introduction 
 
