@@ -37,6 +37,26 @@ The decreasing trend in house prices seems to be driven by a decreasse in house 
 
 An interesting finding is that buyers seems to be less willing to pay more than the asked price after the amortization requirement. The mean percentage increase from the asked prices decreases a lot after the requirement was implemented. This can perhaps capture that buyers became more cautious when the housing market became regulated. It can also capture that the real estate agents started to price the properties more "correctly". In summary, sales prices of properties do not increase from the asked prices equally much as prior to 2016.
 
+<img src="https://user-images.githubusercontent.com/59476324/71820078-489d9e80-308e-11ea-8b31-b0d25d2f1fc2.png" width="400" height="300">
+
+## 4. Summary
+
+In this project I study the development of Swedish house prices in relation to an amortization requirement implemented in June 2016. I use novel data, scraped from the Swedish largest property portal called Hemnet. Using a descriptive analysis, I plot the house prices for the whole country, the three largets cities, apartments and villas, and the percentage increase in sale price from the asked price. I then analyzed the development prior and after the requirement was implemented. There seems to be a trend break in mid 2017, where prices start to decrease. It seems to be driven by a price decrease in Stockholm and for apartments. Since I do not control for anything it is difficult to know if this is related to the amortization requirement. Also the number of months after the implementation of the requirement are few so I can only say something about short-term changes. Most interestingly, there is a clear trend break when it comes to the increase of final prices from asked prices. The percentage increase has dereased from 13% in 2016 to only 5 % in August 2018. Hence, buyers are less willing to pay more than the asked price now compared to prior to the requirement. In conclusion, this is a simple and broad analysis of a complex issue, however it may give an overview to the development of house prices in Sweden between 2014-2018 and in connection to the amortization requirement implemented in 2016.  
+
+## References
+
+Andersson, F. and Jonung, L., 2016. "The credit and housing boom in Sweden, 1995-2015: Forewarned is forearmed", retrieved at: https://voxeu.org/article/credit-and-housing-boom-sweden-1995-2015. 
+
+Bernanke, B., 2015. "Should monetary policy take into account risks to financial stability?", retrieved at: https://www.brookings.edu/blog/ben-bernanke/2015/04/07/should-monetary-policy-take-into-account-risks-to-financial-stability/. 
+
+Chen, J., Columba, F., 2016. Macroprudential and Monetary Policy Interactions in a DSGE Model for Sweden. IMF Working Paper, WP/16/74.
+
+Finansinspektionen, 2016. "Amortisation requirement for new mortgages", retrieved at: https://www.fi.se/en/published/press-releases/2016/amortisation-requirement-for-new-mortgages/. 
+
+Finansinspektionen, 2018. "The Swedish Mortgage Market", retrieved at: https://www.fi.se/contentassets/e50ed7ac94454af191625a898190073b/bolan_2018_eng_ktt.pdf
+
+Milne, R., 2016. "Sweden’s central bank chief says negative rates ‘undramatic’", Financial Times, October 17 2016, retrieved at: https://www.ft.com/content/b5c03c3e-936b-11e6-a1dc-bdf38d484582.  
+
+Turk, R., 2015. Housing prices and household debt interactions in sweden. IMF Working Paper 15/276.
 
 
-## 4. Conclusions
