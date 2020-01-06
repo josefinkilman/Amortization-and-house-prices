@@ -12,4 +12,18 @@ The goal of this project is to understand how the amortization requirement affec
 
 ## 2. Data
 
-TBC. 
+The data I want to obtain is all closing prices on properties in Sweden found on hemnet.se. On the website they list all the residences sold in Sweden and also report information on the sale price, address, city, area in city, number of square meters, monthly fee, number of rooms, price per square meter, date of sale and how many percent the closing price has increased or decreased from the asked price. The list of closing prices goes as far back as 2010. However, the number of listings are few in 2010-2012, and hence I will use data from 2013 and forward. I collect data for both co-operative appartments and villas since those types of properties are the largest and most common. 
+
+The data I am scraping is found on the following link: https://www.hemnet.se/salda/bostader?item_types%5B%5D=bostadsratt&page=2&sold_age=all.  
+
+## 3. Descriptive evidence
+
+Find full code for the analysis in Amortization requirement and house prices.ipynb.
+
+I will divide the data into subgroups based on city and type of property and simply plot the sale prices between 2014-2018. I want to see if there are trend breaks in sale prices comparing the period before and after the implementation of the amortization requirement on June 1st 2016. I also want to see of the percentage increase in sale price from the asked price is effected or not. Of course, we cannot say whether the possible trend break is due to the amortization requirement since I do not control for anything else. In addition, the number of years after the requirement was implemented is few so we can only get a general picture of the price development.
+
+Image(filename='Saleprice_monthyear.png')
+
+
+
+## 4. Conclusions
