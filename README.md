@@ -32,5 +32,8 @@ The same holds when plotting the price per square metres.
 
 The decreasing trend in house prices seems to be driven by a decreasse in house prices in Stockholm and by a decrease in prices for apartments. 
 
+<img src="https://user-images.githubusercontent.com/59476324/71819986-f52b5080-308d-11ea-9eef-94823d34516d.png" width="400" height="300">
+
+
 
 ## 4. Conclusions
