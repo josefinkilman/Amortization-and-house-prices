@@ -22,8 +22,6 @@ Find full code for the analysis in Amortization requirement and house prices.ipy
 
 I will divide the data into subgroups based on city and type of property and simply plot the sale prices between 2014-2018. I want to see if there are trend breaks in sale prices comparing the period before and after the implementation of the amortization requirement on June 1st 2016. I also want to see of the percentage increase in sale price from the asked price is effected or not. Of course, we cannot say whether the possible trend break is due to the amortization requirement since I do not control for anything else. In addition, the number of years after the requirement was implemented is few so we can only get a general picture of the price development.
 
-![GitHub Logo](C:\Users\josef\Dropbox\PhD Lund\Konferenser & externa kurser\Oslo summer school august 2018\Data\osscabd_2018-master\notebooks\Saleprice_monthyear)
-
 
 
 
