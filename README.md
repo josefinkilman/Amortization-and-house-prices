@@ -28,7 +28,9 @@ The descriptive evidence indicate that there is a small trend break in sales pri
 
 The same holds when plotting the price per square metres.
 
+<img src="https://user-images.githubusercontent.com/59476324/71819327-e348ae00-308b-11ea-8ff5-267babb0e5a3.png" width="400" height="300">
 
+The decreasing trend in house prices seems to be driven by a decreasse in house prices in Stockholm and by a decrease in prices for apartments. 
 
 
 ## 4. Conclusions
