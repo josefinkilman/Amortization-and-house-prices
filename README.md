@@ -33,6 +33,9 @@ The same holds when plotting the price per square metres.
 The decreasing trend in house prices seems to be driven by a decreasse in house prices in Stockholm and by a decrease in prices for apartments. 
 
 <img src="https://user-images.githubusercontent.com/59476324/71819986-f52b5080-308d-11ea-9eef-94823d34516d.png" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/59476324/71820022-112ef200-308e-11ea-8a9b-048fccdfff61.png" width="400" height="300">
+
+An interesting finding is that buyers seems to be less willing to pay more than the asked price after the amortization requirement. The mean percentage increase from the asked prices decreases a lot after the requirement was implemented. This can perhaps capture that buyers became more cautious when the housing market became regulated. It can also capture that the real estate agents started to price the properties more "correctly". In summary, sales prices of properties do not increase from the asked prices equally much as prior to 2016.
 
 
 
